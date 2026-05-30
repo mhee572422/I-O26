@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Google I/O 2026 Pop Quiz",
+  "description": "An interactive 3D quiz exploring the latest AI innovations from Google I/O 2026.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
